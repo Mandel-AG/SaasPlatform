@@ -9,7 +9,6 @@ import {
   VideoIcon,
   Music,
   Code,
-  Settings,
 } from "lucide-react";
 import { useRouter } from "next/navigation";
 
@@ -59,7 +58,7 @@ const DashboardPage = () => {
           Discover the potential of AI.
         </h2>
         <p className="text-muted-foreground font-light text-sm md:text-lg text-center">
-          Converse with the genius AI - Embrace the potential of AI.
+          Experience ZenIQ - Embrace the serenity of smart interactions.
         </p>
       </div>
       <div className="px-4 md:px-20 lg:px-32 space-y-4">
